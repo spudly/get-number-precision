@@ -13,9 +13,6 @@ npm install --save @spudly/get-number-precision
 ```js
 import getNumberPrecision from '@spudly/get-number-precision';
 
-const add = curry((a, b, c) => a + b + c);
-import getNumberPrecision from './getNumberPrecision';
-
 getNumberPrecision(1); // => 0
 getNumberPrecision(1.01); // => 2
 getNumberPrecision(1.2); // => 1
