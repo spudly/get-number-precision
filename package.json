@@ -1,6 +1,9 @@
 {
   "name": "@spudly/get-number-precision",
   "version": "1.0.0",
+  "repository": "https://github.com/spudly/get-number-precision",
+  "license": "ISC",
+  "author": "Stephen John Sorensen <shuoink@gmail.com>",
   "files": [
     "bin",
     "build"
